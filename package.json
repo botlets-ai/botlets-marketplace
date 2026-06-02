@@ -1,0 +1,8 @@
+{
+  "name": "botlets-marketplace",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-submission.mjs"
+  }
+}
